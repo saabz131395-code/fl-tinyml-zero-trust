@@ -1,0 +1,5 @@
+device,normal_samples,pct_time_restricted_or_worse,pct_time_quarantined
+Doorbell,14866,0.0,0.0
+Thermostat,3935,0.0,0.0
+BabyMonitor,52572,0.0,0.0
+Camera,18647,0.0,0.0

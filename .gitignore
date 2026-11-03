@@ -1,0 +1,7 @@
+venv/
+data/
+__pycache__/
+*.pyc
+*.tar.gz
+*.zip
+models/_savedmodel_tmp/

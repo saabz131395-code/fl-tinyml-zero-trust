@@ -1,0 +1,5 @@
+benign,gafgyt_combo,gafgyt_junk,gafgyt_scan,gafgyt_tcp,gafgyt_udp,mirai_ack,mirai_scan,mirai_syn,mirai_udp,mirai_udpplain,device,setting
+0.009215659895062558,1.0,0.9999,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Doorbell,federated
+0.006099110546378653,1.0,1.0,1.0,0.9999,1.0,1.0,1.0,1.0,1.0,1.0,Thermostat,federated
+0.009681959978695883,1.0,0.9999,0.9998,0.0011,0.0007,1.0,1.0,1.0,1.0,1.0,BabyMonitor,federated
+0.01077921381455462,1.0,0.9999,0.9999,1.0,0.9999,1.0,1.0,0.9999,1.0,1.0,Camera,federated
